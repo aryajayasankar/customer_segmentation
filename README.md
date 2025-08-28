@@ -1,1 +1,1 @@
-A simple, end-to-end machine learning project to perform customer segmentation.
+Heyyyyyyyyyyyyyyyyyyyyy
