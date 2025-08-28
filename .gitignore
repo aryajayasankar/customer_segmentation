@@ -12,3 +12,4 @@ mlruns/
 
 # DVC
 .dvc/
+/Mall_customers.csv

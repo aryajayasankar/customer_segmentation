@@ -1,0 +1,5 @@
+outs:
+- md5: 270beafe2092a3fe6b0502d1c7603363
+  size: 3981
+  hash: md5
+  path: Mall_customers.csv
